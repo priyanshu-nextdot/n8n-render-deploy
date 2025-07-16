@@ -1,0 +1,15 @@
+{
+  "name": "n8n-render-deploy",
+  "version": "1.0.0",
+  "description": "n8n deployment for Render.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "^1.103.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
